@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
    font-family: poppins;
 }
@@ -42,3 +43,10 @@ nav{
 .carousel-item img {
    object-fit:cover;
 }
+=======
+
+.logo{
+   height: 45px;
+}
+
+>>>>>>> ecaaf0b42cdcbe5190ac0975f37e99a3868d661d
