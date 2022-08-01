@@ -1,0 +1,44 @@
+*{
+   font-family: poppins;
+}
+
+
+.logo{
+   height: 60px;
+}
+
+
+.logonav{
+  display: flex;
+  align-items: center;
+  width: 450px;
+}
+
+.name-utesa{
+   font-weight: bold;
+}
+
+
+.items{
+   display: flex;
+   align-items: center;
+   padding: 10px;
+}
+
+nav{
+   height: 100px;
+   
+}
+
+.services{
+   margin: 50px;
+   padding: 100px;
+}
+
+.carousel .carousel-item {
+   max-height:700px;
+}
+
+.carousel-item img {
+   object-fit:cover;
+}
